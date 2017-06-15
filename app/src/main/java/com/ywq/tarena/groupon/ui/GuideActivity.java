@@ -54,7 +54,7 @@ public class GuideActivity extends FragmentActivity {
         fragmentC = new FragmentC();
         fragmentD = new FragmentD();
 
-        fragments = new ArrayList<Fragment>();
+        fragments = new ArrayList<>();
         fragments.add(fragmentA);
         fragments.add(fragmentB);
         fragments.add(fragmentC);
@@ -79,7 +79,8 @@ public class GuideActivity extends FragmentActivity {
         //1dp 在很高密度屏幕上 2px
         //1dp 在非常高度屏幕上 3px
 
-        //另外一种获得10dp在当前设备屏幕密度上的像素值得方式
+        //另外一种获得5dp在当前设备屏幕密度上的像素值得方式
+        float px = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,5,getResources().getDisplayMetrics());
 
         final float density = getResources().getDisplayMetrics().density;
         //indicator.setBackgroundColor(0x00ff6633);
