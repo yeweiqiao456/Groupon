@@ -1,7 +1,0 @@
-#Thu Jun 15 15:54:12 CST 2017
-base.0=C\:\\Users\\tarena\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_777f3b4bd8c1f38c4e99142ff186d8260f11e62b
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\tarena\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f04a0fc65c41501cc90edac58401bdefb41043db\\classes.dex
-base.1=C\:\\Users\\tarena\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f04a0fc65c41501cc90edac58401bdefb41043db
-file.0=C\:\\Users\\tarena\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_777f3b4bd8c1f38c4e99142ff186d8260f11e62b\\classes.dex
